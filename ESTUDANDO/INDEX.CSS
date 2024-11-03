@@ -1,0 +1,26 @@
+body{
+    background-image:url(img/slava-auchynnikau-HumE-iC2wLU-unsplash.jpg);
+    width: 100%;
+    height: 100%;
+    color: rgb(9, 10, 12);
+    background-size: cover;
+    position: center;
+}
+
+form{
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+    margin: 300px auto;
+    text-align: center;
+    background-color: gray;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+}
+
+
